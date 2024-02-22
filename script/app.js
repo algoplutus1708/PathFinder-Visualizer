@@ -42,7 +42,7 @@ window.addEventListener("load", () => {
   drawStart = true;
   drawEnd = true;
   githubRepo.addEventListener("click", () => {
-    window.open("https://github.com/Red-Lion-SM/Red-Lion-SM.github.io");
+    window.open("https://github.com/algoplutus1708/PathFinder-Visualizer");
   });
   myGitLink.addEventListener("click", () => {
     window.open("https://github.com/algoplutus1708/PathFinder-Visualizer");
