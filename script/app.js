@@ -45,7 +45,7 @@ window.addEventListener("load", () => {
     window.open("https://github.com/algoplutus1708/PathFinder-Visualizer");
   });
   myGitLink.addEventListener("click", () => {
-    window.open("https://github.com/algoplutus1708/PathFinder-Visualizer");
+    window.open("https://github.com/algoplutus1708");
   });
   const enableBtnAndGrid = () => {
     selectAlgorithm.disabled = false;
