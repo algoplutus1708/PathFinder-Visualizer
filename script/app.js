@@ -45,7 +45,7 @@ window.addEventListener("load", () => {
     window.open("https://github.com/Red-Lion-SM/Red-Lion-SM.github.io");
   });
   myGitLink.addEventListener("click", () => {
-    window.open("https://github.com/Red-Lion-SM");
+    window.open("https://github.com/algoplutus1708/PathFinder-Visualizer");
   });
   const enableBtnAndGrid = () => {
     selectAlgorithm.disabled = false;
