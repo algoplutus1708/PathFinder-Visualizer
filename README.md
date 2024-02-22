@@ -38,4 +38,4 @@ This is a website where we can see the visualizations of different path finding 
 ![dfs-visualization](https://i.ibb.co/7pQhW6X/dfs.png)
 ---
 # Link
-Live version of the website : [Path Finding Visualizer](https://red-lion-sm.github.io/)
+Live version of the website : [Path Finding Visualizer](https://algoplutus1708.github.io/PathFinder-Visualizer/)
